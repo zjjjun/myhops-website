@@ -1,11 +1,12 @@
 {
    "applinks": {
      "apps": [],
-     "details": [
-     {
+     "details": [{
        "appID": "3244955422.ca.myhops.ios.dev",
-       "paths": ["*"]
-     }
-     ]
+       "paths": [
+         "*",
+         "path": "/user/*"  // Match any user path
+       ]
+     }]
    }
- }
+}
