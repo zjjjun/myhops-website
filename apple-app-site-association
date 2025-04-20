@@ -5,7 +5,7 @@
        "appID": "3244955422.ca.myhops.ios.dev",
        "paths": [
          "*",
-         "path": "/user/*"  // Match any user path
+         "/user/*"  // Match any user path
        ]
      }]
    }
